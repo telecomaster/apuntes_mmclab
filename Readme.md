@@ -19,7 +19,15 @@ A continuación, se presentan los pasos básicos para comenzar a utilizar el MMC
 Antes de poder utilizar el MMCLAB, debe estar instalado en su sistema. Para hacerlo, simplemente descargue la última versión del MMCLAB y siga las instrucciones de instalación que se encuentran en el archivo "README.txt" incluido en el paquete.
 
 ## Inicio del MMCLAB:
-Una vez que haya instalado el MMCLAB, abra Matlab y escriba "mmc_init" en la línea de comandos. Esto iniciará el MMCLAB y estará listo para su uso.
+Una vez que haya instalado el MMCLAB, abra Matlab y escriba:
+ 
+    mmc_init 
+  // Some comments
+    line 1 of code
+    line 2 of code
+    line 3 of code
+ 
+ en la línea de comandos. Esto iniciará el MMCLAB y estará listo para su uso.
 
 ## Carga de muestras y configuración del sistema:
 Para cargar muestras, simplemente use la función "mmcread" que carga los datos desde un archivo. Luego, use la función "mmcsetup" para configurar el sistema de comunicación con los parámetros necesarios.
@@ -29,3 +37,5 @@ Para ejecutar una simulación, use la función "mmcexec". Esto ejecutará la sim
 
 ## Visualización de resultados:
 Los resultados generados se pueden visualizar mediante el uso de las funciones de Matlab para gráficos y visualización de datos. Para obtener ayuda adicional, consulte la documentación del MMCLAB y las funciones de ayuda en Matlab.
+
+### Ahora ya estas listo para comenzar a utilizar  
