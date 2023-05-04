@@ -1,0 +1,2 @@
+%este archivo viene con la instalación de mmclab, se usa como referencia este archivo 
+%Este código es un ejemplo de simulación de difusión de luz en un medio turbio utilizando el toolbox "mmclab" de MATLAB. A continuación, se explica cada una de las líneas de código:
