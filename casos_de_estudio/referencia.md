@@ -1,6 +1,6 @@
-#Aqui se explica cada una de las lineas de codigo de 
-
-### demo_mmclab_basic.m
+# Aqui se explica cada una de las lineas de codigo de 
+Realizar esto luego de delcarar el path en maltab de [mmclab](https://github.com/fangq/mmc/tree/master/mmclab) anteriormente ademas de [iso2mesh](https://github.com/fangq/iso2mesh) del mismo repositorio
+### [demo_mmclab_basic.m](https://github.com/fangq/mmc/blob/master/mmclab/example/demo_immc_basic.m)
 
 ## clear cfg
 
