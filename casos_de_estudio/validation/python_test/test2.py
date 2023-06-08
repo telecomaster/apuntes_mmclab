@@ -31,7 +31,7 @@ def qmeshcut(elements, nodes, cutvalue, plane):
     simplex_indices = tri.find_simplex(plane)
     
     if np.any(simplex_indices < 0):
-        raise ValueError("The plane is outside the mesh.")
+        raise ValueError("tu plano salio de la grilla.")
     
     simplex_vertices = tri.simplices[simplex_indices]
     
