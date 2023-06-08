@@ -75,9 +75,6 @@ def genT5mesh(*args):
     
     vertices = lattice(*args)
     
-   
-
-#que chuchas será esto, hola René del futuro, espero que tengas unidades de medida y que rayos es esto
 #nota 2 si mi memoria no falla es la velocidad de la luz en m/s
 c0=299792458000;
 
